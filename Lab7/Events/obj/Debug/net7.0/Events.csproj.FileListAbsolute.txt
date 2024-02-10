@@ -1,0 +1,12 @@
+/Users/taisiaskovpen/Desktop/Lab7/Events/bin/Debug/net7.0/Events.deps.json
+/Users/taisiaskovpen/Desktop/Lab7/Events/bin/Debug/net7.0/Events.dll
+/Users/taisiaskovpen/Desktop/Lab7/Events/bin/Debug/net7.0/Events.pdb
+/Users/taisiaskovpen/Desktop/Lab7/Events/obj/Debug/net7.0/Events.csproj.AssemblyReference.cache
+/Users/taisiaskovpen/Desktop/Lab7/Events/obj/Debug/net7.0/Events.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taisiaskovpen/Desktop/Lab7/Events/obj/Debug/net7.0/Events.AssemblyInfoInputs.cache
+/Users/taisiaskovpen/Desktop/Lab7/Events/obj/Debug/net7.0/Events.AssemblyInfo.cs
+/Users/taisiaskovpen/Desktop/Lab7/Events/obj/Debug/net7.0/Events.csproj.CoreCompileInputs.cache
+/Users/taisiaskovpen/Desktop/Lab7/Events/obj/Debug/net7.0/Events.dll
+/Users/taisiaskovpen/Desktop/Lab7/Events/obj/Debug/net7.0/refint/Events.dll
+/Users/taisiaskovpen/Desktop/Lab7/Events/obj/Debug/net7.0/Events.pdb
+/Users/taisiaskovpen/Desktop/Lab7/Events/obj/Debug/net7.0/ref/Events.dll
